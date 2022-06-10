@@ -1,0 +1,38 @@
+.active{
+    background-color: #122f81;
+    
+}
+.icon_container{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #122f81;
+    color: white;
+    font-size: 1.9rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.more-option{
+    color:#122f81;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.info__title{
+    font-weight: 700;
+    font-size: 2rem;
+
+}
+
+
+.btn-info-section{
+    background-color: #122f81;
+    margin: 20px 0;
+    color: white;
+    border-radius: 10px;
+}
